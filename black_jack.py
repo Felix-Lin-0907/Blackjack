@@ -5,7 +5,7 @@ import random
 from art import logo
 
 
-def deal_card():
+def deal_card_Kevin():
     """Returns a random card from the deck."""
 
 # Hint 6: Create a function called calculate_score() that takes a List of cards as input
